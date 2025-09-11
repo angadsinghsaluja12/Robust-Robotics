@@ -28,7 +28,7 @@ ESP32 (Arduino), ESP32-CAM, MQTT broker (Mosquitto), Python (OpenCV, Ultralytics
 6. Future Scope:
 Autonomous swarm drones, advanced fire-classification, integration with emergency networks.
 
-Repo: (provide GitHub URL)
+Repo: [(provide GitHub URL)](https://github.com/angadsinghsaluja12/Robust-Robotics.git)
 
 Structure:
 Drone-Fireball-Pneumatic/
